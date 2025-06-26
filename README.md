@@ -12,7 +12,7 @@
 </div>
 
 ### About me
-- About me text with emojis
+- No about me yet
 
 ---
 
