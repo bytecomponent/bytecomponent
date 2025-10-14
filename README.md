@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi everyone, it's me - bytecomponent </h1>
-    <h3>Full Stack Developer from Moscow</h3>
+    <h3>Basic Developer from Krasnodar, Russia</h3>
 </div>
 
 <h5 align="center">My socials</h5>
