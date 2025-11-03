@@ -1,38 +1,99 @@
 <div id="header" align="center">
-    <h1>Hi everyone, it's me - bytecomponent </h1>
-    <h3>Basic Developer from Krasnodar, Russia</h3>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <h1>Привет всем, это bytecomponent 👋</h1>
+    <h3>🚀 CEO & Lead Developer в TheSortilege</h3>
+    <h4>📍 Краснодар, Россия</h4>
 </div>
 
-<h5 align="center">My socials</h5>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytecomponent&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h5 align="center">📱 Мои социальные сети</h5>
 
 <div id="socials" align="center">
-  <a href="#" onclick='alert("Not yet");'>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/bytecomponent" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/TheSortilege" target="_blank">
+    <img src="https://img.shields.io/badge/TheSortilege-181717?style=for-the-badge&logo=github&logoColor=white" alt="TheSortilege"/>
+  </a>
+  <a href="mailto:bytecomponent@proton.me">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-### About me
-- No about me yet
+---
+
+### 🎯 Обо мне
+
+```javascript
+const bytecomponent = {
+  code: ["JavaScript", "TypeScript", "Python", "Vue", "React"],
+  tools: ["Node.js", "Flask", "Nuxt", "Git", "Docker"],
+  architecture: ["REST API", "Microservices", "SPA", "PWA"],
+  hobbies: ["Разработка", "Дизайн", "Геймдев", "Музыка"],
+  currentFocus: "TheSortilege Platform",
+  motto: "Превращаю идеи в цифровую реальность"
+};
+```
 
 ---
 
-### Languages and tools
+### 🛠️ Технологии и инструменты
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+#### Frontend
+<div style="display: flex; flex-direction: row; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/> 
+</div>
 
+#### Backend
+<div style="display: flex; flex-direction: row; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/> 
+</div>
 
-### My stats
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytecomopnent&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bytecomponent&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bytecomponent&theme=github_dark" alt=""/>
+#### Tools
+<div style="display: flex; flex-direction: row; gap: 5px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/> 
 </div>
 
 ---
+
+### 🚀 Текущие проекты
+
+#### **TheSortilege Platform** - Многофункциональная веб-платформа
+- **Статус:** Alpha v1.0.0 🟢
+- **Стек:** Vue 3 + Nuxt 3 + Flask + MySQL
+- **Функции:** Система авторизации, профили пользователей, REST API
+
+---
+
+### 📊 Статистика
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bytecomponent&theme=github_dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytecomponent&layout=compact&theme=github_dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=bytecomponent&show_icons=true&theme=github_dark" alt=""/>
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Код - это поэзия, написанная логикой"
+
+*Разрабатываю будущее, строчка за строчкой* ✨
+
+</div>
