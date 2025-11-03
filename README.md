@@ -33,7 +33,7 @@ const bytecomponent = {
   tools: ["Node.js", "Flask", "Nuxt", "Git", "Docker"],
   architecture: ["REST API", "Microservices", "SPA", "PWA"],
   hobbies: ["Разработка", "Дизайн", "Геймдев", "Музыка"],
-  currentFocus: "TheSortilege Platform",
+  currentFocus: "TheSortilege",
   motto: "Превращаю идеи в цифровую реальность"
 };
 ```
